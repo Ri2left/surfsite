@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Placemark>
+<kml xmlns="http://earth.google.com/kml/2.1"><Document>
+	<Placemark>
 		<name>46224</name>
 		<Snippet maxLines="2">Station 46224 - Oceanside Offshore, CA (045)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.179N 117.471W
@@ -116,4 +116,6 @@
 			<coordinates>-117.439,33.22,0</coordinates>
 		</Point>
 	</Placemark>
+	
+  </Document>
 </kml>
