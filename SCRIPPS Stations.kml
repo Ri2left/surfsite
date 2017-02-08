@@ -16,6 +16,7 @@
 		<styleUrl>#stationStyle</styleUrl>
 		<Style>
 			<IconStyle>
+				<scale>1.1</scale>
 				<Icon>
 					<href>https://docs.google.com/uc?id=0Bw0V_Xyhyl7TYVRDMWpvTjRjY00</href>
 				</Icon>
