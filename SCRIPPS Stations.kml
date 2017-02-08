@@ -4,10 +4,7 @@
 		<name>46224</name>
 		<Snippet maxLines="2">Station 46224 - Oceanside Offshore, CA (045)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.179N 117.471W
-<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 2.6 ft<br />
-<b>Dominant Wave period:</b> 11 sec<br />
-<b>Mean Wave Direction:</b> W (264&#176;)<br />
-<b>Water Temperature:</b> 59.2 &#176;F<br />]]></description>
+]]></description>
 		<LookAt>
 			<longitude>-117.471</longitude>
 			<latitude>33.179</latitude>
@@ -33,10 +30,7 @@
 		<name>46225</name>
 		<Snippet maxLines="2">Station 46225 - Torrey Pines Outer, CA (100)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.933N 117.391W
-<br /><b>02/08/2017 1821 UTC</b><br /><b>Significant Wave Height:</b> 2.6 ft<br />
-<b>Dominant Wave period:</b> 13 sec<br />
-<b>Mean Wave Direction:</b> W (263&#176;)<br />
-<b>Water Temperature:</b> 59.7 &#176;F<br />]]></description>
+]]></description>
 		<LookAt>
 			<longitude>-117.391</longitude>
 			<latitude>32.933</latitude>
@@ -62,10 +56,7 @@
 		<name>46254</name>
 		<Snippet maxLines="2">Station 46254 - SCRIPPS Nearshore, CA (201)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.868N 117.267W
-<br /><b>02/08/2017 1818 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
-<b>Dominant Wave period:</b> 8 sec<br />
-<b>Mean Wave Direction:</b> W (271&#176;)<br />
-<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+]]></description>
 		<LookAt>
 			<longitude>-117.267</longitude>
 			<latitude>32.868</latitude>
@@ -91,10 +82,7 @@
 		<name>46242</name>
 		<Snippet maxLines="2">Station 46242 - Camp Pendleton Nearshore, CA  (043)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.22N 117.439W
-<br /><b>02/08/2017 1758 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
-<b>Dominant Wave period:</b> 13 sec<br />
-<b>Mean Wave Direction:</b> WSW (237&#176;)<br />
-<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+]]></description>
 		<LookAt>
 			<longitude>-117.439</longitude>
 			<latitude>33.22</latitude>
