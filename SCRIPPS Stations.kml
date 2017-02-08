@@ -16,11 +16,10 @@
 		<styleUrl>#stationStyle</styleUrl>
 		<Style>
 			<IconStyle>
-				<scale>10</scale>
 				<Icon>
-					<href>https://docs.google.com/uc?id=0Bw0V_Xyhyl7TYVRDMWpvTjRjY00</href>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
 				</Icon>
-				
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 		</Style>
 		<Point>
