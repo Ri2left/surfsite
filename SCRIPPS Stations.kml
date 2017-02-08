@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2"><Document>
 	<Placemark>
-		<Name>Oceanside Offshore</Name>
+		<name><b>Oceanside Offshore</b></name>
 		<Snippet maxLines="2">Station 46224 - Oceanside Offshore, CA (045)</Snippet>
-		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.179N 117.471W
+		<description><![CDATA[<b>Location:</b> 33.179N 117.471W
 ]]></description>
 		<LookAt>
 			<longitude>-117.471</longitude>
@@ -27,9 +27,9 @@
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>46225</name>
+		<name><b>Torrey Pines Outer</b></name>
 		<Snippet maxLines="2">Station 46225 - Torrey Pines Outer, CA (100)</Snippet>
-		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.933N 117.391W
+		<description><![CDATA[<b>Location:</b> 32.933N 117.391W
 ]]></description>
 		<LookAt>
 			<longitude>-117.391</longitude>
@@ -53,9 +53,9 @@
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>46254</name>
+		<name><b>SCRIPPS Nearshore</b></name>
 		<Snippet maxLines="2">Station 46254 - SCRIPPS Nearshore, CA (201)</Snippet>
-		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.868N 117.267W
+		<description><![CDATA[<b>Location:</b> 32.868N 117.267W
 ]]></description>
 		<LookAt>
 			<longitude>-117.267</longitude>
@@ -79,9 +79,9 @@
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>46242</name>
+		<name><b>Camp Pendleton Nearshore</b></name>
 		<Snippet maxLines="2">Station 46242 - Camp Pendleton Nearshore, CA  (043)</Snippet>
-		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.22N 117.439W
+		<description><![CDATA[<b>Location:</b> 33.22N 117.439W
 ]]></description>
 		<LookAt>
 			<longitude>-117.439</longitude>
