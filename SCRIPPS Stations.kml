@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>SCRIPPS Stations</name>
+	<open>1</open>
+	<description>Stations owned and maintained by SCRIPPS</description>
+	<Placemark>
+		<name>01500</name>
+		<Snippet maxLines="2">Station 01500 - SP031 - 3801500</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01521</name>
+		<Snippet maxLines="2">Station 01521 - SP011 - 4801521</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01522</name>
+		<Snippet maxLines="2">Station 01522 - SP018 - 4801522</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01523</name>
+		<Snippet maxLines="2">Station 01523 - SP025 - 4801523</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01524</name>
+		<Snippet maxLines="2">Station 01524 - SP028 - 4801524</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01526</name>
+		<Snippet maxLines="2">Station 01526 - SP048 - 4801526</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01531</name>
+		<Snippet maxLines="2">Station 01531 - SP407 - 4801531</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01532</name>
+		<Snippet maxLines="2">Station 01532 - SP020 - 4801532</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01534</name>
+		<Snippet maxLines="2">Station 01534 - SP030 - 4801534</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01535</name>
+		<Snippet maxLines="2">Station 01535 - SP052 - 4801535</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01536</name>
+		<Snippet maxLines="2">Station 01536 - SP063 - 4801536</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01538</name>
+		<Snippet maxLines="2">Station 01538 - SP043 - 4801538</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01909</name>
+		<Snippet maxLines="2">Station 01909 - SCRIPPS Glider - 4801909</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>01910</name>
+		<Snippet maxLines="2">Station 01910 - SCRIPPS Glider - 4801910</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-90</longitude>
+			<latitude>30</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-90,30,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41108</name>
+		<Snippet maxLines="2">Station 41108 - Wilmington Harbor, NC - (200)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.721N 78.015W
+<br /><b>02/08/2017 1847 UTC</b><br /><b>Significant Wave Height:</b> 5.6 ft<br />
+<b>Dominant Wave period:</b> 8 sec<br />
+<b>Mean Wave Direction:</b> S (182&#176;)<br />
+<b>Water Temperature:</b> 55.2 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-78.015</longitude>
+			<latitude>33.721</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-78.015,33.721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41112</name>
+		<Snippet maxLines="2">Station 41112 - Offshore Fernandina Beach, FL (132)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 30.709N 81.292W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 2.0 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> ESE (108&#176;)<br />
+<b>Water Temperature:</b> 63.1 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-81.292</longitude>
+			<latitude>30.709</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-81.292,30.709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41113</name>
+		<Snippet maxLines="2">Station 41113 - Cape Canaveral Nearshore, FL (143)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 28.4N 80.533W
+<br /><b>02/08/2017 1851 UTC</b><br /><b>Significant Wave Height:</b> 1.6 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> ESE (102&#176;)<br />
+<b>Water Temperature:</b> 71.4 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-80.533</longitude>
+			<latitude>28.4</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-80.533,28.4,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41114</name>
+		<Snippet maxLines="2">Station 41114 - Fort Pierce, FL (134)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 27.551N 80.219W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 2.0 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> E (80&#176;)<br />
+<b>Water Temperature:</b> 72.3 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-80.21899999999999</longitude>
+			<latitude>27.551</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-80.21899999999999,27.551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41116</name>
+		<Snippet maxLines="2">Station 41116 - Oculina Bank North, FL (227)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 28.523N 80.188W
+<br /><b>02/08/2017 1800 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
+<b>Dominant Wave period:</b> 3 sec<br />
+<b>Mean Wave Direction:</b> SW (216&#176;)<br />
+<b>Water Temperature:</b> 72.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-80.188</longitude>
+			<latitude>28.523</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-80.188,28.523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42099</name>
+		<Snippet maxLines="2">Station 42099 - Offshore St. Petersburg, FL (144)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 27.341N 84.272W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 3.0 ft<br />
+<b>Dominant Wave period:</b> 5 sec<br />
+<b>Mean Wave Direction:</b> SW (235&#176;)<br />
+<b>Water Temperature:</b> 73.9 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-84.27200000000001</longitude>
+			<latitude>27.341</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-84.27200000000001,27.341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>44096</name>
+		<Snippet maxLines="2">Station 44096 - Cape Charles, VA (186)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-75.81</longitude>
+			<latitude>37.023</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-75.81,37.023,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>44097</name>
+		<Snippet maxLines="2">Station 44097 - Block Island, RI  (154)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 40.969N 71.127W
+<br /><b>02/08/2017 1825 UTC</b><br /><b>Significant Wave Height:</b> 7.5 ft<br />
+<b>Dominant Wave period:</b> 8 sec<br />
+<b>Mean Wave Direction:</b> SSW (193&#176;)<br />
+<b>Water Temperature:</b> 45.3 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-71.127</longitude>
+			<latitude>40.969</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-71.127,40.969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>44099</name>
+		<Snippet maxLines="2">Station 44099 - Cape Henry, VA (147)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 36.915N 75.72W
+<br /><b>02/08/2017 1842 UTC</b><br /><b>Significant Wave Height:</b> 3.3 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> ESE (114&#176;)<br />
+<b>Water Temperature:</b> 46.8 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-75.72</longitude>
+			<latitude>36.915</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-75.72,36.915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>44100</name>
+		<Snippet maxLines="2">Station 44100 - Duck FRF 26m, NC (430)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 36.259N 75.592W
+<br /><b>02/08/2017 1835 UTC</b><br /><b>Significant Wave Height:</b> 3.6 ft<br />
+<b>Dominant Wave period:</b> 7 sec<br />
+<b>Mean Wave Direction:</b> SE (135&#176;)<br />
+<b>Water Temperature:</b> 46.6 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-75.592</longitude>
+			<latitude>36.259</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-75.592,36.259,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46114</name>
+		<Snippet maxLines="2">Station 46114 - West Monterey Bay, CA (185)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 36.723N 122.351W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 6.6 ft<br />
+<b>Dominant Wave period:</b> 9 sec<br />
+<b>Mean Wave Direction:</b> W (263&#176;)<br />
+<b>Water Temperature:</b> 55.2 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-122.351</longitude>
+			<latitude>36.723</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-122.351,36.723,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46211</name>
+		<Snippet maxLines="2">Station 46211 - Grays Harbor, WA (036)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 46.858N 124.244W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 4.3 ft<br />
+<b>Dominant Wave period:</b> 15 sec<br />
+<b>Mean Wave Direction:</b> W (268&#176;)<br />
+<b>Water Temperature:</b> 46.0 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.244</longitude>
+			<latitude>46.858</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.244,46.858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46213</name>
+		<Snippet maxLines="2">Station 46213 - Cape Mendocino, CA (094)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 40.288N 124.719W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 8.2 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> SW (224&#176;)<br />
+<b>Water Temperature:</b> 53.1 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.719</longitude>
+			<latitude>40.288</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.719,40.288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46214</name>
+		<Snippet maxLines="2">Station 46214 - Point Reyes, CA (029)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 37.948N 123.468W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 7.9 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> WSW (245&#176;)<br />
+<b>Water Temperature:</b> 54.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-123.468</longitude>
+			<latitude>37.948</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-123.468,37.948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46215</name>
+		<Snippet maxLines="2">Station 46215 - Diablo Canyon, CA (076)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 35.204N 120.859W
+<br /><b>02/08/2017 1820 UTC</b><br /><b>Significant Wave Height:</b> 6.2 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> W (275&#176;)<br />
+<b>Water Temperature:</b> 57.0 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-120.859</longitude>
+			<latitude>35.204</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-120.859,35.204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46217</name>
+		<Snippet maxLines="2">Station 46217 - Anacapa Passage, CA (111)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 34.167N 119.435W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 4.6 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> W (274&#176;)<br />
+<b>Water Temperature:</b> 58.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-119.435</longitude>
+			<latitude>34.167</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-119.435,34.167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46218</name>
+		<Snippet maxLines="2">Station 46218 - Harvest, CA (071)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 34.454N 120.782W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 6.9 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> W (279&#176;)<br />
+<b>Water Temperature:</b> 57.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-120.782</longitude>
+			<latitude>34.454</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-120.782,34.454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46219</name>
+		<Snippet maxLines="2">Station 46219 - San Nicolas Island, CA (067)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.221N 119.881W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 5.6 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> WNW (285&#176;)<br />
+<b>Water Temperature:</b> 58.6 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-119.881</longitude>
+			<latitude>33.221</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-119.881,33.221,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46221</name>
+		<Snippet maxLines="2">Station 46221 - Santa Monica Bay, CA (028)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.854N 118.633W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 3.0 ft<br />
+<b>Dominant Wave period:</b> 8 sec<br />
+<b>Mean Wave Direction:</b> W (260&#176;)<br />
+<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-118.633</longitude>
+			<latitude>33.854</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-118.633,33.854,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46222</name>
+		<Snippet maxLines="2">Station 46222 - San Pedro, CA (092)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.618N 118.317W
+<br /><b>02/08/2017 1819 UTC</b><br /><b>Significant Wave Height:</b> 4.3 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> W (265&#176;)<br />
+<b>Water Temperature:</b> 59.2 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-118.317</longitude>
+			<latitude>33.618</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-118.317,33.618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46224</name>
+		<Snippet maxLines="2">Station 46224 - Oceanside Offshore, CA (045)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.179N 117.471W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 2.6 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> W (264&#176;)<br />
+<b>Water Temperature:</b> 59.2 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.471</longitude>
+			<latitude>33.179</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.471,33.179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46225</name>
+		<Snippet maxLines="2">Station 46225 - Torrey Pines Outer, CA (100)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.933N 117.391W
+<br /><b>02/08/2017 1821 UTC</b><br /><b>Significant Wave Height:</b> 2.6 ft<br />
+<b>Dominant Wave period:</b> 13 sec<br />
+<b>Mean Wave Direction:</b> W (263&#176;)<br />
+<b>Water Temperature:</b> 59.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.391</longitude>
+			<latitude>32.933</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.391,32.933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46229</name>
+		<Snippet maxLines="2">Station 46229 - UMPQUA OFFSHORE, OR (139)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 43.766N 124.551W
+<br /><b>02/08/2017 1846 UTC</b><br /><b>Significant Wave Height:</b> 11.5 ft<br />
+<b>Dominant Wave period:</b> 9 sec<br />
+<b>Mean Wave Direction:</b> SSW (202&#176;)<br />
+<b>Water Temperature:</b> 51.6 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.551</longitude>
+			<latitude>43.766</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.551,43.766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46232</name>
+		<Snippet maxLines="2">Station 46232 - Point Loma South, CA  (191)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.53N 117.421W
+<br /><b>02/08/2017 1841 UTC</b><br /><b>Significant Wave Height:</b> 3.9 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> W (268&#176;)<br />
+<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.421</longitude>
+			<latitude>32.53</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.421,32.53,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46237</name>
+		<Snippet maxLines="2">Station 46237 - San Francisco Bar, CA  (142)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>-122.634</longitude>
+			<latitude>37.786</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-122.634,37.786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46239</name>
+		<Snippet maxLines="2">Station 46239 - Point Sur, CA (157)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 36.341N 122.102W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 8.2 ft<br />
+<b>Dominant Wave period:</b> 9 sec<br />
+<b>Mean Wave Direction:</b> W (268&#176;)<br />
+<b>Water Temperature:</b> 55.2 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-122.102</longitude>
+			<latitude>36.341</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-122.102,36.341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46240</name>
+		<Snippet maxLines="2">Station 46240 - Cabrillo Point, Monterey Bay, CA  (158)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 36.626N 121.907W
+<br /><b>02/08/2017 1819 UTC</b><br /><b>Significant Wave Height:</b> 2.0 ft<br />
+<b>Dominant Wave period:</b> 17 sec<br />
+<b>Mean Wave Direction:</b> N (9&#176;)<br />
+<b>Water Temperature:</b> 55.6 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-121.907</longitude>
+			<latitude>36.626</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-121.907,36.626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46242</name>
+		<Snippet maxLines="2">Station 46242 - Camp Pendleton Nearshore, CA  (043)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.22N 117.439W
+<br /><b>02/08/2017 1758 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
+<b>Dominant Wave period:</b> 13 sec<br />
+<b>Mean Wave Direction:</b> WSW (237&#176;)<br />
+<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.439</longitude>
+			<latitude>33.22</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.439,33.22,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46243</name>
+		<Snippet maxLines="2">Station 46243 - Clatsop Spit, OR (162)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 46.216N 124.127W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 4.6 ft<br />
+<b>Dominant Wave period:</b> 9 sec<br />
+<b>Mean Wave Direction:</b> SSW (198&#176;)<br />
+<b>Water Temperature:</b> 48.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.127</longitude>
+			<latitude>46.216</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.127,46.216,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46244</name>
+		<Snippet maxLines="2">Station 46244 - Humboldt Bay, North Spit, CA (168)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 40.888N 124.357W
+<br /><b>02/08/2017 1821 UTC</b><br /><b>Significant Wave Height:</b> 6.2 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> SW (235&#176;)<br />
+<b>Water Temperature:</b> 53.4 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.357</longitude>
+			<latitude>40.888</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.357,40.888,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46248</name>
+		<Snippet maxLines="2">Station 46248 - Astoria Canyon, OR  (179)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 46.134N 124.64W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 5.9 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> SSW (201&#176;)<br />
+<b>Water Temperature:</b> 48.9 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-124.64</longitude>
+			<latitude>46.134</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-124.64,46.13400000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46251</name>
+		<Snippet maxLines="2">Station 46251 - Santa Cruz Basin, CA (203)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.76N 119.55W
+<br /><b>02/08/2017 1821 UTC</b><br /><b>Significant Wave Height:</b> 4.3 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> W (261&#176;)<br />
+<b>Water Temperature:</b> 58.8 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-119.55</longitude>
+			<latitude>33.76</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-119.55,33.76,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46253</name>
+		<Snippet maxLines="2">Station 46253 - San Pedro South, CA (213)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.577N 118.182W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> W (260&#176;)<br />
+<b>Water Temperature:</b> 59.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-118.182</longitude>
+			<latitude>33.577</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-118.182,33.577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46254</name>
+		<Snippet maxLines="2">Station 46254 - SCRIPPS Nearshore, CA (201)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.868N 117.267W
+<br /><b>02/08/2017 1818 UTC</b><br /><b>Significant Wave Height:</b> 2.3 ft<br />
+<b>Dominant Wave period:</b> 8 sec<br />
+<b>Mean Wave Direction:</b> W (271&#176;)<br />
+<b>Water Temperature:</b> 59.5 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.267</longitude>
+			<latitude>32.868</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.267,32.868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46256</name>
+		<Snippet maxLines="2">Station 46256 - Long Beach Channel, CA (215)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.7N 118.201W
+<br /><b>02/08/2017 1822 UTC</b><br /><b>Significant Wave Height:</b> 2.6 ft<br />
+<b>Dominant Wave period:</b> 13 sec<br />
+<b>Mean Wave Direction:</b> SW (231&#176;)<br />
+<b>Water Temperature:</b> 59.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-118.201</longitude>
+			<latitude>33.7</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-118.201,33.7,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46257</name>
+		<Snippet maxLines="2">Station 46257 - Harvest Southeast, CA (216)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 34.439N 120.766W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 7.2 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />
+<b>Mean Wave Direction:</b> W (268&#176;)<br />
+<b>Water Temperature:</b> 57.6 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-120.766</longitude>
+			<latitude>34.439</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-120.766,34.439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>46258</name>
+		<Snippet maxLines="2">Station 46258 - Mission Bay West, CA (220)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.75N 117.5W
+<br /><b>02/08/2017 1830 UTC</b><br /><b>Significant Wave Height:</b> 3.9 ft<br />
+<b>Dominant Wave period:</b> 11 sec<br />
+<b>Mean Wave Direction:</b> W (273&#176;)<br />
+<b>Water Temperature:</b> 59.7 &#176;F<br />]]></description>
+		<LookAt>
+			<longitude>-117.5</longitude>
+			<latitude>32.75</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.5,32.75,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>52212</name>
+		<Snippet maxLines="2">Station 52212 - Ngaraard, Babeldaob, Palau (219)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><br /><b>No recent data</b><br />]]></description>
+		<LookAt>
+			<longitude>134.667</longitude>
+			<latitude>7.63</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/mooredbuoyicon.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>134.667,7.629999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LJPC1</name>
+		<Snippet maxLines="2">Station LJPC1 - La Jolla, CA (073)</Snippet>
+		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 32.867N 117.257W
+<br /><b>02/08/2017 1820 UTC</b><br /><b>Winds:</b> NNW (340&#176;) at 4.1 kts<br />
+<b>Significant Wave Height:</b> 2.3 ft<br />
+<b>Dominant Wave period:</b> 10 sec<br />]]></description>
+		<LookAt>
+			<longitude>-117.257</longitude>
+			<latitude>32.867</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>482803.2</range>
+		</LookAt>
+		<styleUrl>#stationStyle</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.ndbc.noaa.gov/images/kml/fixed.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-117.257,32.867,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
