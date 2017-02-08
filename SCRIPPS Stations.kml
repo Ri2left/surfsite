@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1"><Document>
 	<Placemark>
-		<name>46224</name>
+		<Name>Oceanside Offshore</Name>
 		<Snippet maxLines="2">Station 46224 - Oceanside Offshore, CA (045)</Snippet>
 		<description><![CDATA[<b>SCRIPPS</b><br /><b>Location:</b> 33.179N 117.471W
 ]]></description>
